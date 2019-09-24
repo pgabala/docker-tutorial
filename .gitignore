@@ -1,0 +1,10 @@
+node_modules
+.suo
+backend/bin
+src/bin
+obj
+.idea
+*.user
+*.orig
+.DS_Store
+package-lock.json
